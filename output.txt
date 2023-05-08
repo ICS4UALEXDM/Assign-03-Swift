@@ -1,0 +1,38 @@
+Output for the recIsPalindrome() function
+
+123 is not a palindrome!
+2 is a palindrome!
+43 is not a palindrome!
+76sdffds67 is a palindrome!
+plottingittignittolp is a palindrome!
+Empty line is a palindrome!
+!@#$%^&*&^%$#@! is a palindrome!
+1441 is a palindrome!
+adgsudhf is not a palindrome!
+29yfkjsnbe89r7y23 is not a palindrome!
+
+Output for the recCalcSum() function
+
+The triangular number of 123 is 7626
+The triangular number of 2 is 3
+The triangular number of 43 is 946
+ERROR: Not a valid number
+ERROR: Not a valid number
+ERROR: Empty line
+ERROR: Not a valid number
+The triangular number of 1441 is 1038961
+ERROR: Not a valid number
+ERROR: Not a valid number
+
+Output for the depthOfPalindrome() function
+
+The Depth for palindrome of 123 is 1
+The Depth for palindrome of 2 is 0
+The Depth for palindrome of 43 is 1
+ERROR: Not a valid number 
+ERROR: Not a valid number 
+ERROR: Empty line 
+ERROR: Not a valid number 
+The Depth for palindrome of 1441 is 0
+ERROR: Not a valid number 
+ERROR: Not a valid number 
